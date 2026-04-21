@@ -1,2 +1,2 @@
 # Sign-Language-Translation-Model
-This repository contains file needed to replicate a YOLO11 based object classification model for translating sign language. (Digital Image Processing Course)
+This repository contains the files needed to replicate a YOLO11 based object classification model for translating sign language. This was done as a final project for my Digital Image Processing course.
